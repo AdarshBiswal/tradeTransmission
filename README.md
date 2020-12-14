@@ -5,7 +5,6 @@
   - In Eclipes / InteliJ use existing gradle and import the package.
 
 ##### Steps to execute the code <H6>
-  - Execute with Junit Test.
   - Execute with Gradle Test.
 
 
@@ -61,4 +60,3 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
   - inside buildPath -> Add Library -> add JRE System Library ->click workspace Default JRE ->Finish
   - inside buildPath -> Add Library -> add JUnit-> select Junit5->Finish
   - Ready To Work
-- 
