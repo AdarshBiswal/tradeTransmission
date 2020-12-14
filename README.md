@@ -7,6 +7,7 @@
        
   Trade Id | Version|Counter-Party | Book-Id | Maturity Date | Created Date 
    ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+      Trade Id     |        Version      |    Counter-Party	     |      Book-Id       |  Maturity Date   | Created Date  |   Expired
           T1     |        1      |     CP-1	     |      B1       |  20/05/2020   | <today date>  |      N
    ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
           T2     |        2      |     CP-2	     |      B1       |  20/05/2021   | <today date>  |      N
