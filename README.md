@@ -27,6 +27,12 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
   -tradeTransmission contains the main funtion.
   -tradeTestRunner contains the testcases.
   
+ ###### Package Details <h6>
+  -Trade class contains the prototype
+  -tradeFlow class contains the funtionality to add or update trade
+  -tradeTransmission contains the main funtion.
+  -tradeTestRunner contains the testcases.
+  
 ##### Built information <h6>
   -Gradle was used.(To run the code import the file as existing gradle)
   -Java Version Used:-JDK 1.8,JRE 1.8
