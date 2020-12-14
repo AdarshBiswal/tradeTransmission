@@ -16,10 +16,6 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
 
 
 ###### There are couples of validation, we need to provide in the above assignment <h6> 
-- George Washington
-- John Adams
-- Thomas Jefferson
-  *During transmission if the lower version is being received by the store it will reject the trade and throw an exception. If the version is same it will override the existing record.
-  *Store should not allow the trade which has less maturity date then today date.
-  *Store should automatically update the expire flag if in a store the trade crosses the maturity date.
-
+- During transmission if the lower version is being received by the store it will reject the trade and throw an exception. If the version is same it will override the existing record.
+- Store should not allow the trade which has less maturity date then today date.
+- Store should automatically update the expire flag if in a store the trade crosses the maturity date.
