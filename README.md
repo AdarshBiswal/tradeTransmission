@@ -44,7 +44,7 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
 6. Check if maturity Date is lower than todays date the Trade will not be added.
 7. Check if Version is Same and date is lower the trade is not updated.
 8. Check if Maturity Date is Same as Todays Date the list will be added.
-9. Check if version is high but maturity date is low the trade will be regected.
+9. Check if version is high but maturity date is low the trade will be rejected.
 10. Check If Maturity Date is Expired it will update the Expired Flag
   
   
