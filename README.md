@@ -46,8 +46,19 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
 8. Check if Maturity Date is Same as Todays Date the list will be added.
 9. Check if version is high but maturity date is low the trade will be rejected.
 10. Check If Maturity Date is Expired it will update the Expired Flag
-  
+11. Check with T1	1	CP-1	B1	20/05/2020	<today date>	N
+12. Check With T2	2	CP-2	B1	20/05/2021	<today date>	N
+13. Check With T2	1	CP-1	B1	20/05/2021	14/03/2015	N
+14. Check Expired T3	3	CP-3	B2	20/05/2014	<today date>	Y
   
 ###### Test Cases Output <H6>
 - All test Case Passed.
 
+
+##### If Gradle is giving error -> Steps to troubleshoot <H6>
+  - Click on properties -> java compiler ->uncheck Enable project Specific Setting.
+  - Inside properties -> java build Path -> remove JRE Library[JAVA SE](unbound)
+  - inside buildPath -> Add Library -> add JRE System Library ->click workspace Default JRE ->Finish
+  - inside buildPath -> Add Library -> add JUnit-> select Junit5->Finish
+  - Ready To Work
+- 
