@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tradeTransmission.tradeTestRunner" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-12-14T03:22:55" hostname="DESKTOP-VCT0F8P" time="0.168">
+  <properties/>
+  <testcase name="testVersionHigh()" classname="tradeTransmission.tradeTestRunner" time="0.069"/>
+  <testcase name="testVersionSame()" classname="tradeTransmission.tradeTestRunner" time="0.002"/>
+  <testcase name="testVersionLow()" classname="tradeTransmission.tradeTestRunner" time="0.038"/>
+  <testcase name="testMaturityGreater()" classname="tradeTransmission.tradeTestRunner" time="0.004"/>
+  <testcase name="testMaurityLower()" classname="tradeTransmission.tradeTestRunner" time="0.003"/>
+  <testcase name="testMaturityLowerVersionSame()" classname="tradeTransmission.tradeTestRunner" time="0.002"/>
+  <testcase name="testSameMaturity()" classname="tradeTransmission.tradeTestRunner" time="0.005"/>
+  <testcase name="testMaturitySameVersionMaturityLow()" classname="tradeTransmission.tradeTestRunner" time="0.005"/>
+  <testcase name="testVersionAndMaturityLow()" classname="tradeTransmission.tradeTestRunner" time="0.005"/>
+  <testcase name="testExpiry()" classname="tradeTransmission.tradeTestRunner" time="0.002"/>
+  <testcase name="testIfTradeEmpty()" classname="tradeTransmission.tradeTestRunner" time="0.003"/>
+  <testcase name="testAddTrade()" classname="tradeTransmission.tradeTestRunner" time="0.002"/>
+  <testcase name="testCheckVersion()" classname="tradeTransmission.tradeTestRunner" time="0.002"/>
+  <system-out><![CDATA[T2 is added to the Store
+T2 is added to the Store
+T1 is added to the Store
+T3 is added to the Store
+T4 is added to the Store
+T6 is added to the Store
+T6 is added to the Store
+T7 is added to the Store
+T8 is added to the Store
+T9 is added to the Store
+T1 is added to the Store
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
