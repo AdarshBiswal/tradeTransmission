@@ -1,10 +1,10 @@
 # tradeTransmission
 
-##### STEP TO BULID THE CODE <H6>
+##### Steps to run the code <H6>
   - Downlaod the repo.
   - In Eclipes / InteliJ use existing gradle and import the package.
 
-##### STEP Excecute the CODE <H6>
+##### Steps to execute the code <H6>
   - Execute with Junit Test.
   - Execute with Gradle Test.
 
