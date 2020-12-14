@@ -3,7 +3,9 @@
 ###### PROBLEM STATEMENT <h6> 
   There is a scenario where thousands of trades are flowing into one store, assume any way of transmission of trades. We need to create a one trade store, which stores the trade     in the following order.
   
-       Trade Id  |     Version   | Counter-Party |    Book-Id    | Maturity Date | Created Date  |   Expired
+       
+       
+  Trade Id | Version|Counter-Party | Book-Id | Maturity Date | Created Date 
    ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
           T1     |        1      |     CP-1	     |      B1       |  20/05/2020   | <today date>  |      N
    ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
