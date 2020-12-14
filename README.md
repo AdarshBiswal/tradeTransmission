@@ -16,4 +16,7 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
 
 
 ###### There are couples of validation, we need to provide in the above assignment <h6> 
-  *Hi
+  Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
