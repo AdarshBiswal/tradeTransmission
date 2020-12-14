@@ -77,7 +77,7 @@ public class tradeTestRunner {
         tf.addTrade(t2);
         assertEquals("CP-4",tf.allTrade.get("T2").getCounterPartId());
     }
-    //Check if Version is high the list will be updated
+    //Check if Version is same the list will be updated
     //T1	1	CP-1	B1	20/05/2020	today date  N
     //T1	1	CP-2	B1	20/05/2020	today date	N
     @Test
@@ -165,7 +165,7 @@ public class tradeTestRunner {
         assertNotNull(tf.allTrade.get("T7"));
     }
 
-    //Check if version is high but maturity date is low the trade will be regected
+    //Check if version is high but maturity date is low the trade will be rejected
     //T8 1  CP-3  B1  20/05/2021  todaysDate  N
     //T8 5  CP-3  B1  20/05/2020  todaysDate  N
     @Test
