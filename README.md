@@ -49,5 +49,5 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
   
   
 ###### Test Cases Output <H6>
-- All pass.
+- All test Case Passed.
 
