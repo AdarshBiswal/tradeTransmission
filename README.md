@@ -22,9 +22,9 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
 
   
 ##### Built information <h6>
--Gradle was used.(To run the code import the file as existing gradle)
--Java Version Used:-JDK 1.8,JRE 1.8
--Junt Version Used- JUnit 5
+- Gradle was used.(To run the code import the file as existing gradle)
+- Java Version Used:-JDK 1.8,JRE 1.8
+- Junt Version Used- JUnit 5
 
  ##### Built information <h6>
 1. Check if 1st Trade is added.
