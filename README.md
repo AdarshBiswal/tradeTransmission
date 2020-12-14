@@ -3,6 +3,11 @@
 ##### Steps to run the code <H6>
   - Downlaod the repo.
   - In Eclipes / InteliJ use existing gradle and import the package.
+  - Click on properties -> java compiler ->uncheck Enable project Specific Setting.
+  - Inside properties -> java build Path -> remove JRE Library[JAVA SE](unbound)
+  - inside buildPath -> Add Library -> add JRE System Library ->click workspace Default JRE ->Finish
+  - inside buildPath -> Add Library -> add JUnit-> select Junit5->Finish
+  - Ready To Work
 
 ##### Steps to execute the code <H6>
   - Execute with Gradle Test.
