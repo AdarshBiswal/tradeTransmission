@@ -31,6 +31,10 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
   -Gradle was used.(To run the code import the file as existing gradle)
   -Java Version Used:-JDK 1.8,JRE 1.8
   -Junt Version Used- JUnit 5
+  -Trade class contains the prototype
+  -tradeFlow class contains the funtionality to add or update trade
+  -tradeTransmission contains the main funtion.
+  -tradeTestRunner contains the testcases.
  
  ##### Built information <h6>
   1. Check if 1st Trade is added.
