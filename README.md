@@ -1,5 +1,14 @@
 # tradeTransmission
 
+##### STEP TO BULID THE CODE <H6>
+  - Downlaod the repo.
+  - In Eclipes / InteliJ use existing gradle and import the package.
+
+##### STEP Excecute the CODE <H6>
+  - Execute with Junit Test.
+  - Execute with Gradle Test.
+
+
 ###### PROBLEM STATEMENT <h6> 
   There is a scenario where thousands of trades are flowing into one store, assume any way of transmission of trades. We need to create a one trade store, which stores the trade     in the following order.
   
@@ -22,7 +31,7 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
 
   
 ##### Built information <h6>
-- Gradle was used.(To run the code import the file as existing gradle)
+- Gradle6 was used.
 - Java Version Used:-JDK 1.8,JRE 1.8
 - Junt Version Used- JUnit 5
 
@@ -38,3 +47,7 @@ T2  | 3| CP-3| B2| 20/05/2014| <today date>| Y
 9. Check if version is high but maturity date is low the trade will be regected.
 10. Check If Maturity Date is Expired it will update the Expired Flag
   
+  
+###### Test Cases Output <H6>
+- All pass.
+
